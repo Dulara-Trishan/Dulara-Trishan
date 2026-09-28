@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/profile-banner.svg" alt="Dulara Trishan — practical software for real work" width="100%" />
+</div>
 
-<!--
-**Dulara-Trishan/Dulara-Trishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Dulara.
 
-Here are some ideas to get you started:
+I build practical web tools for day-to-day operations. My background in operational work helps me start with the real process, then make the interface simple and useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently focused on:** web development, workflow tools, and data handling.
+
+### Selected public work
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [Bakery Stock Control](https://github.com/Dulara-Trishan/bakery-stock-control) | An offline stock tracker that uses product recipes to deduct materials when production is recorded. It also shows low stock and refill needs. | HTML, CSS, JavaScript |
+
+### Tools and learning
+
+`HTML` · `CSS` · `JavaScript` · `Firebase` · `Python` · `SQL Server` · `Kotlin`
+
+I enjoy turning manual records into clear dashboards and small, usable applications. I'm continuing to strengthen my software development skills through hands-on projects.
+
+[Explore my repositories →](https://github.com/Dulara-Trishan?tab=repositories)
